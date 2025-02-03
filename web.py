@@ -2,7 +2,7 @@ from gtts import gTTS as gt
 import streamlit as st
 
 try:
-    st.title("text to speech  convertor by coder-shivam ")
+    st.title("text to speech convertor")
 
     a=st.text_input("enter input")
 
